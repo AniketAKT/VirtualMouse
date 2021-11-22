@@ -1,6 +1,4 @@
-*Video Reference in the link in About Section*
-
-
+# *Video Reference is in the link in About Section*
 
 Perform different Mouse functionalities just by using your hand gestures.
 Like:
